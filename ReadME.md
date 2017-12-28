@@ -1,20 +1,9 @@
-# OISiURS-2014-Projektni-Zadatak
+# OISiURS-2014
 
-### Fakultet tehnickih nauka - Novi Sad
-### Naziv kursa:
-	Osnove informacionih sistema 2014
-	Uvod u razvoj softvera 2014
-### Profesori:
-	OIS - Branko Milosavljevic - http://informatika.ftn.uns.ac.rs/BrankoMilosavljevic/
-	URS - Igor Dejanoviæ - http://informatika.ftn.uns.ac.rs/IgorDejanovic/
-	Zeljko Ivkovic - http://www.ftn.uns.ac.rs/2048314270/zeljko-ivkovic
-		
-## Programski jezik
-
-	Python
+**Python**
 	
-## Pokretanje Aplikacije
+## Setup
 
-Aplikacija se pokrece pokretanjem modula glavni.py 
+To run application start modul `glavni.py` 
 	
 	.../projekat/glavni.py 
